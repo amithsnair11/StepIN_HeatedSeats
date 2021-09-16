@@ -17,14 +17,26 @@
 
 ## Heating System is ON with four levels
 * Heater ON Level 1: 
-  * SEAT SWITCH ON, HEAT SWITCH ON
-  * HEATER LED ON
-  * HEAT ADJUST POT 20%
-  * 4 heat-level LED indicator L1
+  * SEAT SWITCH ON, HEAT SWITCH ON, HEATER LED ON
+  * HEAT ADJUST POT 20%, 4 HEAT-LEVEL LED INDICATOR in level 1
+  * Oscilloscope showing 20% duty cycle
+* Heater ON Level 2: 
+  * SEAT SWITCH ON, HEAT SWITCH ON, HEATER LED ON
+  * HEAT ADJUST POT 40%, 4 HEAT-LEVEL LED INDICATOR in level 2
+  * Oscilloscope showing 40% duty cycle
 
 | HeaterOn Level 1 | HeaterOn Level 2 |
 | --- | --- |
 | ![HeaterOn L1](https://user-images.githubusercontent.com/89698000/133663594-5f3fd727-8611-4590-a0ea-118eced8eeef.png) | ![HeaterOn L2](https://user-images.githubusercontent.com/89698000/133663606-2519cfd6-1803-4ac2-b200-23bb392c2f88.png) |
+
+* Heater ON Level 3: 
+  * SEAT SWITCH ON, HEAT SWITCH ON, HEATER LED ON
+  * HEAT ADJUST POT 70%, 4 HEAT-LEVEL LED INDICATOR in level 3
+  * Oscilloscope showing 70% duty cycle
+* Heater ON Level 4: 
+  * SEAT SWITCH ON, HEAT SWITCH ON, HEATER LED ON
+  * HEAT ADJUST POT 95%, 4 HEAT-LEVEL LED INDICATOR in level 4
+  * Oscilloscope showing 95% duty cycle
 
 | HeaterOn Level 3 | HeaterOn Level 4 |
 | --- | --- |
