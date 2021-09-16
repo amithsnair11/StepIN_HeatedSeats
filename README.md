@@ -1,4 +1,9 @@
 # StepIN_HeatedSeats
+
+| Code Inspector | Codacy |
+| --- | --- |
+| ![Code Quality Score](https://www.code-inspector.com/project/28914/score/svg) ![Code Grade](https://www.code-inspector.com/project/28914/status/svg)| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa6894cb116347dba38c7e2f8224eecf)](https://www.codacy.com/gh/amithsnair11/StepIN_HeatedSeats/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amithsnair11/StepIN_HeatedSeats&amp;utm_campaign=Badge_Grade) |
+
 ## Introduction
 The system is used to warm the seates of automobiles when used in cold freezing winters. 
 #### Input and connections
